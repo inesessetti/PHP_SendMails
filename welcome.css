@@ -1,0 +1,49 @@
+body
+{
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+}
+ 
+  
+.welcomeTitle
+{
+    color: white;
+    border: 10px solid #c38d9e;
+}
+  /* Set a style for all buttons */
+  button {
+    background-color: #659dbd;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+
+
+  }
+  
+ 
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 10%;
+    border-radius: 10%;
+  }
+  
+  /* Add padding to containers */
+  .container {
+    padding: 16px;
+  }
+  
+  
+  
